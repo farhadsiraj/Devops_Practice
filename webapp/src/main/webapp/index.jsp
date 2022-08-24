@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New User Registration for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill out this form to create an account.</p>
     <hr />
 
     <label for="Name"><b>Enter Name</b></label>
@@ -34,7 +34,7 @@
     />
     <br />
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Create Password</b></label>
     <input
       type="password"
       placeholder="Enter Password"
@@ -63,5 +63,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>Thank you, Happy Learning</h1>
+  <h1>Thank you, Happy Learning!</h1>
 </form>
